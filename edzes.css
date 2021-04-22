@@ -1,0 +1,21 @@
+body{   
+        background-color: black;
+    }
+
+main{   
+        background: lightgrey;
+
+
+    }
+
+h1{ 
+    text-align: center;
+    }
+
+.carousel .img {
+    position: absolute;
+    object-fit:cover;
+    top: 0;
+    left: 0;
+    max-height: 100px;
+}
